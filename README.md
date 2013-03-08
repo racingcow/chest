@@ -1,0 +1,4 @@
+chest
+=====
+
+Generates treasure chests
